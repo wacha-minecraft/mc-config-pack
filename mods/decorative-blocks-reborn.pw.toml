@@ -1,0 +1,13 @@
+name = "Decorative Blocks Reborn"
+filename = "DecorativeBlocks-Reborn-fabric-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNxmWV9g/versions/XQ59e0Uy/DecorativeBlocks-Reborn-fabric-1.21.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "c974e43a557df039b1b28ceab87879201fb3ca2ebd6cd98c00fc0c6e5965e51f30c9dfc97c3fd9cfec5996f52b34b5e1afb0a5e43339cdcd22536c909218b83b"
+
+[update]
+[update.modrinth]
+mod-id = "hNxmWV9g"
+version = "XQ59e0Uy"

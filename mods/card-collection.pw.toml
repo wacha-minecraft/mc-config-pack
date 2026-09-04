@@ -1,0 +1,8 @@
+name = "card_collection"
+filename = "card_collection.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/card_collection.jar"
+hash-format = "sha256"
+hash = "9fd6b32ce5750b27a69a3d3ec1b1da3a6a5d9fd4855cdba5adbb3284e1c863d5"

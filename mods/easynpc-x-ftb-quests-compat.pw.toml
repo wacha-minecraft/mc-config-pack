@@ -1,0 +1,13 @@
+name = "EasyNPC x FTB Quests Compat"
+filename = "easynpc-x-ftb-quests-compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJfPbrsT/versions/6IrEkWrA/easynpc-x-ftb-quests-compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "ea38bfb398cdf9fba79e07bb1891addbccf4c61a94135ff5f5c3602d6958cf627ecdc0e39f2141eed79c4b46b358e70b74901e0d2c71e7def3c90b82de66bfbf"
+
+[update]
+[update.modrinth]
+mod-id = "tJfPbrsT"
+version = "6IrEkWrA"

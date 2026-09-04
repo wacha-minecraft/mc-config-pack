@@ -1,0 +1,8 @@
+name = "ftb-library"
+filename = "ftb-library-fabric-2101.1.35.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8569/580/ftb-library-fabric-2101.1.35.jar"
+hash-format = "sha256"
+hash = "73d0e241ac9465d9d1a1edc4c1691a9664d2f0890316df1ae6d4c9128c98c99b"

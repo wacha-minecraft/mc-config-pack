@@ -1,0 +1,141 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury.pw.toml"
+hash = "18d4727c579d057e5214202ada0c7e850d5d828216a358b743b496cfc1332192"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
+file = "mods/card-collection.pw.toml"
+hash = "3c29408c6bc097d577331e176a46367b2b1f7cde51a495d6ce23903dadddfc78"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "3a4091d8bac9006a24e1d4260ce0bf6db71bfed8ba18ca13b272b7891266bc44"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-reborn.pw.toml"
+hash = "4612c6753b1fb1f8364ecb6fe0d645d6bdd71ef60dd13501ebf0ee46e82d0a69"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "9ad609d391a441624443eb7b0e340c9cf98d5890619d877bfce821deac8615c0"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "0b80bef91b6a376db5283b2ac95b38504a1bbd390e0e892111de99bc4d04c79e"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "2b0a24fff3f3e559e667bc98597fa27f300483f8c9c2bb0e9cf123e1f2d4cb44"
+metafile = true
+
+[[files]]
+file = "mods/easynpc-x-ftb-quests-compat.pw.toml"
+hash = "da16f48ff30c2cb8e395647b9a1f6a15f1cac7af838e208a906ba1fa092acbee"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7ec54a4c5c74980469b37c1ac7e2685ca75629060ad55797a84424e747763d20"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "88787a7c6576d08c2b419449cbc4dd02b8775b5ba7143abc32dc7cbada781963"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
+
+[[files]]
+file = "mods/ferdinands-flowers.pw.toml"
+hash = "36c1f3b64cc65a959649b70ce5fc37beaef204d17534cf6533c235710e4a418d"
+metafile = true
+
+[[files]]
+file = "mods/floral-enchantment.pw.toml"
+hash = "b3e8029cfe4bd58430b6767c154fb88fd42bdf324a1f6cd71f6d9db590e8d1a7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library.pw.toml"
+hash = "cb016239d50d00273530c628a490e01546f3386ec7a9908a3d61efe74918b1f8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests.pw.toml"
+hash = "75a5b700f8f8a34a6aaacabbe53d4b111ae913bc4c4f848bea059648bbeba3b3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams.pw.toml"
+hash = "3aaea940a05378039c6d775c139428879f8f215012c39bab21bd54c72555911f"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a00c7000b6932671db6f4769b631f2cf01dc5d1fb24b838041d3901cffc43d25"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "93c57990c9353797107ca22b047d3ca732a977b0cfd343a0fb6a70f80649e282"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "603e34f7ad0bae9fae8a8d28adfdc37d5b17b206adae64ebd6332dc70a17d9ce"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "27afddbc5448f042c2d723b2a840f346dde5b96b51bc3c7fa17dad8272862659"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/sengokujidaimod.pw.toml"
+hash = "3fb072c5b637e6a15e0c5434e64aa5b3d29b9d32bc083e43ac1cad117ca70630"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "9c394710e28505db4d88e1998acac8f81baa0df173f84a2275c49bbe706ce0a2"
+metafile = true
+
+[[files]]
+file = "mods/some-more-blocks.pw.toml"
+hash = "5c2482b3c8618050f3079e189e10745ffa497e92a1e7b7df7db606aace2db27d"
+metafile = true

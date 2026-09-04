@@ -1,0 +1,13 @@
+name = "Wacha Minecraft"
+author = "wacha-minecraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d5f1d9f73b90897f279febac5e556ebd4d4e49473050991a90b3329a9a66d21"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
