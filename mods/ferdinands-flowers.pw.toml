@@ -1,8 +1,8 @@
 name = "Ferdinands-Flowers"
-filename = "download"
+filename = "ferdinandsflowers-4.0.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://www.curseforge.com/api/v1/mods/282077/files/6832100/download"
+url = "https://edge.forgecdn.net/files/6832/100/ferdinandsflowers-4.0.1-fabric.jar"
 hash-format = "sha256"
 hash = "73db93e9ceef80d4de68fd2eb11d5a3d5022f07df9cf60d4079672ddaa68cbad"
