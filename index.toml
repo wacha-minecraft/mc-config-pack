@@ -81,6 +81,11 @@ hash = "da8851eff33ad7e4757469760b19cd9e92b87118af82871d25cff83f198ba768"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
 file = "mods/floral-enchantment.pw.toml"
 hash = "b3e8029cfe4bd58430b6767c154fb88fd42bdf324a1f6cd71f6d9db590e8d1a7"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams.pw.toml"
 hash = "3aaea940a05378039c6d775c139428879f8f215012c39bab21bd54c72555911f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
 
 [[files]]
@@ -143,4 +153,9 @@ metafile = true
 [[files]]
 file = "mods/some-more-blocks.pw.toml"
 hash = "5c2482b3c8618050f3079e189e10745ffa497e92a1e7b7df7db606aace2db27d"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
