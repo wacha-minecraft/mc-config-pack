@@ -1,8 +1,8 @@
 name = "Sengoku-Jidai-Japanese-Overhaul"
-filename = "sengokuFabric-2.1.5-1.21.1-Fabric-jafix.jar"
+filename = "sengokuFabric-2.1.5-1.21.1-Fabric-jafix-stack64.jar"
 side = "both"
 
 [download]
-url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/sengokuFabric-2.1.5-1.21.1-Fabric-jafix.jar"
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/sengokuFabric-2.1.5-1.21.1-Fabric-jafix-stack64.jar"
 hash-format = "sha256"
-hash = "8b69257b43cd11716c144ed01b447f2f716a18707e2c2304d022f28e8f8f0f9f"
+hash = "efac880218e06d795394a6b24b23aa94c08242ab1eb8836ce10489442d5710a9"
