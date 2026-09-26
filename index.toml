@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/card-collection.pw.toml"
-hash = "3c29408c6bc097d577331e176a46367b2b1f7cde51a495d6ce23903dadddfc78"
+hash = "95ecbe0d1b5fa7e135e8fe2fdb8cf750f4c38238bc5d61b0c20d5c9bd806e5a4"
 metafile = true
 
 [[files]]
