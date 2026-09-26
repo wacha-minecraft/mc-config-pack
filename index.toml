@@ -136,8 +136,8 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
-file = "mods/sengokujidaimod.pw.toml"
-hash = "3fb072c5b637e6a15e0c5434e64aa5b3d29b9d32bc083e43ac1cad117ca70630"
+file = "mods/sengoku-jidai-japanese-overhaul.pw.toml"
+hash = "acfb19e7af74cbb435ec37510bcfb064a0048cf2e32fdc6c5c42905bfd3818a8"
 metafile = true
 
 [[files]]
