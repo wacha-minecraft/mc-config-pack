@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/card-collection.pw.toml"
-hash = "95ecbe0d1b5fa7e135e8fe2fdb8cf750f4c38238bc5d61b0c20d5c9bd806e5a4"
+hash = "cc74ee886a65432fd642e862e41a0fa874c4016a155094d55f0fe9e668680cd9"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "27afddbc5448f042c2d723b2a840f346dde5b96b51bc3c7fa17dad8272862659"
+metafile = true
+
+[[files]]
+file = "mods/question-mod.pw.toml"
+hash = "6b332be3062008f75e33aa8041f0e3351006dba3c10ccdd36c9b06f902a9fc91"
 metafile = true
 
 [[files]]

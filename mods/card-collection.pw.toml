@@ -1,8 +1,8 @@
 name = "card_collection"
-filename = "card_collection.jar"
+filename = "card_collection-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/card_collection.jar"
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/card_collection-1.4.0.jar"
 hash-format = "sha256"
 hash = "2df436fe14fc19d134ae571f235c4c20b17e8e2b95359ce7a5296815487c0056"

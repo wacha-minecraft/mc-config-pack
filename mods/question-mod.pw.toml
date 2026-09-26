@@ -1,0 +1,8 @@
+name = "question_mod"
+filename = "question_mod-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/question_mod-0.1.0.jar"
+hash-format = "sha256"
+hash = "92d286b432254787dc42ea690b1e64d20c5f257498b5c41d1793882d56c93492"
