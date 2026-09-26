@@ -76,6 +76,11 @@ hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
 file = "mods/ferdinands-flowers.pw.toml"
 hash = "da8851eff33ad7e4757469760b19cd9e92b87118af82871d25cff83f198ba768"
 metafile = true
@@ -106,8 +111,13 @@ hash = "3aaea940a05378039c6d775c139428879f8f215012c39bab21bd54c72555911f"
 metafile = true
 
 [[files]]
-file = "mods/image2map.pw.toml"
-hash = "e7dd24c8cd3370389ce222aaa0c73016a18020d100c75100befffbe27c3a88b7"
+file = "mods/fzzy-config.pw.toml"
+hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "c9f72a4717e2417c652cdec8d6a41d01f715158d0457c042ae521824b0edb33b"
 metafile = true
 
 [[files]]
