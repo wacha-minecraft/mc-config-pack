@@ -1,0 +1,8 @@
+name = "wacha-sengoku-fix"
+filename = "wacha-sengoku-fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/wacha-sengoku-fix-1.0.0.jar"
+hash-format = "sha256"
+hash = "df43bc26f6f41d5dd1c53db605e49d825e5ceea43ece3519d4f34dc4ec44ec3e"

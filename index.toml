@@ -136,8 +136,8 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
-file = "mods/sengoku-jidai-japanese-overhaul.pw.toml"
-hash = "6f14c1197c583d25c43a71678fc54680e4598b6d90ce5bf34f12e41ce640f1a0"
+file = "mods/sengokujidaimod.pw.toml"
+hash = "3fb072c5b637e6a15e0c5434e64aa5b3d29b9d32bc083e43ac1cad117ca70630"
 metafile = true
 
 [[files]]
@@ -158,4 +158,9 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/wacha-sengoku-fix.pw.toml"
+hash = "2459cb12c7ec22f8a9ce9553ad0ace8612d071f5c2a3d9595a3f9b996d671fca"
 metafile = true
