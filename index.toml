@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/4god.pw.toml"
+hash = "4270b0c5a637a95e7d71125cecde18b97a9208a38b9493bd888e95bccf971cee"
+metafile = true
+
+[[files]]
 file = "mods/architectury.pw.toml"
 hash = "18d4727c579d057e5214202ada0c7e850d5d828216a358b743b496cfc1332192"
 metafile = true

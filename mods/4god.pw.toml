@@ -1,0 +1,8 @@
+name = "4god"
+filename = "four-guardians-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/four-guardians-1.3.0.jar"
+hash-format = "sha256"
+hash = "55275612bbdbc7b60e97e280f3d69ced85621b9eb103be5bd0f75e4319dcdd53"
