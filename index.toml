@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/endportal-change.pw.toml"
-hash = "d8dc1de88234f73e53340c1690375334c2b60fa9e21148765abc16e931ec090c"
+hash = "26d197e3c34f275bf12cf01d8871fdf25aa704814265456abff6253ec6174069"
 metafile = true
 
 [[files]]
