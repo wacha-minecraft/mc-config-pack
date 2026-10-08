@@ -1,8 +1,8 @@
 name = "endportal_change"
-filename = "endportal_change-1.0.0.jar"
+filename = "endportal_change-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/endportal_change-1.0.0.jar"
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/endportal_change-1.0.1.jar"
 hash-format = "sha256"
-hash = "211c1941890065408b4df3901344e9025a8eef520ac215784fa58daa7164917f"
+hash = "68125525dc5f2815da8e08309e7d28cfb9f979b501c5311ac6455f109c7954d9"
