@@ -66,6 +66,11 @@ hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
 metafile = true
 
 [[files]]
+file = "mods/endportal-change.pw.toml"
+hash = "edac9af7deeca2024cd3a343b56782ca4db91a2a13e6e65de867d1e15aea215d"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7ec54a4c5c74980469b37c1ac7e2685ca75629060ad55797a84424e747763d20"
 metafile = true
