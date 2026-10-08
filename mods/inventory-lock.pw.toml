@@ -1,0 +1,8 @@
+name = "inventory_lock"
+filename = "inventory_lock-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/inventory_lock-1.0.0.jar"
+hash-format = "sha256"
+hash = "e200d373cda3bd4711f739f2d31cf468bcf210383fbf121e64a554e7216cdec9"

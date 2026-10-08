@@ -126,6 +126,11 @@ hash = "c9f72a4717e2417c652cdec8d6a41d01f715158d0457c042ae521824b0edb33b"
 metafile = true
 
 [[files]]
+file = "mods/inventory-lock.pw.toml"
+hash = "13caf9e762b12588e2fb9fb595ccd940477e02a16f1224a68f09c807e0ee9dab"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
