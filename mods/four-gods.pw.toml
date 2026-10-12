@@ -1,8 +1,8 @@
 name = "four_gods"
-filename = "four_gods-1.0.1.jar"
+filename = "four_gods-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/four_gods-1.0.1.jar"
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/four_gods-1.0.3.jar"
 hash-format = "sha256"
-hash = "d5f0f7a6da31732763eb2d2e94747eb357de0cf7b2c413fd626c6449340815e7"
+hash = "9e9145ebafa8c2735976487d4793cd990a83af569438054921df7e6d7afe938d"
