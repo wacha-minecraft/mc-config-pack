@@ -11,6 +11,11 @@ hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "8f2619ec9d317086927c01f37289bfdc6b0ccd30a07f1978581b3d2cced4fe8f"
+metafile = true
+
+[[files]]
 file = "mods/card-collection.pw.toml"
 hash = "cc74ee886a65432fd642e862e41a0fa874c4016a155094d55f0fe9e668680cd9"
 metafile = true
