@@ -171,11 +171,6 @@ hash = "93c57990c9353797107ca22b047d3ca732a977b0cfd343a0fb6a70f80649e282"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "603e34f7ad0bae9fae8a8d28adfdc37d5b17b206adae64ebd6332dc70a17d9ce"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
