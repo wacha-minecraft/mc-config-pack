@@ -16,6 +16,11 @@ hash = "8f2619ec9d317086927c01f37289bfdc6b0ccd30a07f1978581b3d2cced4fe8f"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "fd26bc20d42bbfe70f7043828590036224064406eecec6fa130058c2add97404"
+metafile = true
+
+[[files]]
 file = "mods/card-collection.pw.toml"
 hash = "cc74ee886a65432fd642e862e41a0fa874c4016a155094d55f0fe9e668680cd9"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "603e34f7ad0bae9fae8a8d28adfdc37d5b17b206adae64ebd6332dc70a17d9ce"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
 
 [[files]]
