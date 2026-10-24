@@ -1,8 +1,8 @@
 name = "skills_mod"
-filename = "skills_mod-0.1.0.jar"
+filename = "skills_mod-0.2.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/skills_mod-0.1.0.jar"
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/skills_mod-0.2.0.jar"
 hash-format = "sha256"
-hash = "958e32a590fedf7ee802769ad150bc1c93f1262607b6193bbe1d5f932e84c507"
+hash = "660f423d37e8354db9be390ba5f74f847477ef56b3f04dc16866e84c7824e351"
