@@ -186,6 +186,11 @@ hash = "dd34dee7f793bb0863dfc1f0ebc6303b307f3dca07d010d2f4dae82e26c937f3"
 metafile = true
 
 [[files]]
+file = "mods/resource-expansion.pw.toml"
+hash = "1561111b9a3ed1625db884ac574b020c6a23037dc2c043fe250a3320614cb626"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true

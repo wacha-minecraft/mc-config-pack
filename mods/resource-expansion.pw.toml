@@ -1,0 +1,8 @@
+name = "resource_expansion"
+filename = "resource_expansion-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/wacha-minecraft/mc-config-pack/releases/download/mirrors/resource_expansion-0.1.0.jar"
+hash-format = "sha256"
+hash = "f760cfce63a0d1ea03b4a30222c3d6ae49b51ee6cf647ea236ed4da14b558b63"
