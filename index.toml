@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-expansion.pw.toml"
-hash = "1561111b9a3ed1625db884ac574b020c6a23037dc2c043fe250a3320614cb626"
+hash = "625a8fa7c73f60937e568240148cfd62b33da5fa3b1f935c80205efe33616f57"
 metafile = true
 
 [[files]]
